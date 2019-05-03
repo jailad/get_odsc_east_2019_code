@@ -44,7 +44,9 @@ REPOS = [
     "https://github.com/bradleyfay/odsceast2019",
     "https://github.com/uwdata/visualization-curriculum/",
     "https://github.com/altair-viz/altair-tutorial/",
-    "https://github.com/bardess/odsc_2019_workshop"
+    "https://github.com/bardess/odsc_2019_workshop",
+    "https://github.com/Dell-AI/ODSC-east-2019",
+    "https://github.com/SethHWeidman/Conference_talks"
 ]
 
 
